@@ -127,4 +127,5 @@ Open `http://localhost:5173` in your web browser.
 
 Thank you for exploring Chat App! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
 
+Contact: contact.aniketsharma05@gmail.com
 ---
