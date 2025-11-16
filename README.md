@@ -125,8 +125,7 @@ Open `http://localhost:5173` in your web browser.
 
 ## Thank You
 
-Thank you for exploring Chat App! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
+Thank you for exploring Chat App! Your feedback is valuable (contact.aniketsharma05@gmail.com). If you have any suggestions or thoughts, feel free to share them with us. 😊
 
-Contact: contact.aniketsharma05@gmail.com
-Linkedin: https://www.linkedin.com/in/aniket-sharma-07ba6617b/
+Contact/Linkedin --> https://www.linkedin.com/in/aniket-sharma-07ba6617b/
 ---
